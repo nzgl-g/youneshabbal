@@ -1,6 +1,12 @@
 <h1 align="left"><h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 <p align="left">My name is Younes Habbal im a CS enthusiast from Algeria</p>
+
+## About me
+
+- ✨ Creating bugs since 2021
+- 📚 I'm currently learning C#
+- 🎯 Goals: Software Engineer 
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youneshabbal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
