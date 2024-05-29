@@ -69,3 +69,6 @@
 <img src="https://raw.githubusercontent.com/youneshabbal/youneshabbal/output/snake.svg" alt="Snake animation" />
 
 ###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=youneshabbal.youneshabbal&right_color=blueviolet"  />
+
+###
