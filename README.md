@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Creating bugs since 2021
-- 📚 I'm currently learning C# (C#-->Basics-->Avalonia Framework-->Blazor)
+- 📚 I'm currently learning C# (Basics --> WPF Tech --> Blazor)
 - 🎯 Goals: Software Engineer
 
 ## I code with
