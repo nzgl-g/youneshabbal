@@ -72,3 +72,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=youneshabbal.youneshabbal&right_color=blueviolet"  />
 
 ###
+<a href="https://app.daily.dev/youneshabbal"><img src="https://api.daily.dev/devcards/v2/2FKVvxF0t8VgscXpRXddj.png?r=gg4&type=default" width="356" alt="Younes Habbal's Dev Card"/></a>
+
+###
